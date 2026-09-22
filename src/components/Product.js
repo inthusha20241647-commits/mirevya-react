@@ -6,7 +6,7 @@ function Product() {
   return (
     <div className="Products">
       <div class="box">
-        <img src={image1}></img>
+        <img src={image1} alt="image1"></img>
         <p>
           Lorem ipsum, dolor sit amet consectetur adipisicing elit. Modi
           blanditiis ratione culpa aperiam! Voluptatem quidem fugit illum et
@@ -16,7 +16,7 @@ function Product() {
       </div>
 
       <div className="box">
-        <img src={image2}></img>
+        <img src={image2} alt="image2"></img>
         <p>
           Lorem ipsum, dolor sit amet consectetur adipisicing elit. Modi
           blanditiis ratione culpa aperiam! Voluptatem quidem fugit illum et
@@ -26,7 +26,7 @@ function Product() {
       </div>
 
       <div className="box">
-        <img src={image3}></img>
+        <img src={image3} alt="image3"></img>
         <p>
           Lorem ipsum, dolor sit amet consectetur adipisicing elit. Modi
           blanditiis ratione culpa aperiam! Voluptatem quidem fugit illum et

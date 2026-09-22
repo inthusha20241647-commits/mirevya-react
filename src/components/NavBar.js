@@ -4,16 +4,16 @@ function NavBar() {
       <h1>Mirevya</h1>
       <ul>
         <li>
-          <a href="#">Home |</a>
+          <a href="/">Home |</a>
         </li>
         <li>
-          <a href="#">Products |</a>
+          <a href="/">Products |</a>
         </li>
         <li>
-          <a href="#">About Us |</a>
+          <a href="/">About Us |</a>
         </li>
         <li>
-          <a href="#">Contact Us</a>
+          <a href="/">Contact Us</a>
         </li>
       </ul>
     </nav>
