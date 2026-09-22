@@ -12,7 +12,7 @@ It helped me practice creating reusable components such as:
 
 🚀 Deployed on Vercel
 
-🔗 View Mirevya Live Website(https://mirevya-react.vercel.app/)
+🔗 https://mirevya-react.vercel.app/
 
 ## ⚛️ React Concepts Practiced
 
